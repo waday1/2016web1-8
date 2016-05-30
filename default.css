@@ -56,6 +56,10 @@ body{
     margin:48px 0 0 0;
 } 
 
+h1{
+font-size:150px;	
+}
+
 .breadcrumbs li{
 	display:inline;
 	list-style-type:none;
