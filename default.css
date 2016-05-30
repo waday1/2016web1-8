@@ -50,3 +50,69 @@ table {
     margin:0;
     padding:0;
 }
+ 
+body{
+    background-color:#aacf53;
+    margin:48px 0 0 0;
+} 
+
+header{
+    background-color:#460e44;
+    color:white;
+    position:fixed;
+    left:0;
+    top:0;
+    width:100%;
+    z-index:-1;
+}
+
+#good_picture{
+    width:24;
+    position:absolute;
+    left:50px;
+    top:50px;
+}
+
+.box{ 
+    background-color:#0d0015;
+    color:white;
+    width:240px;
+    height:80px;
+    margin:5px;
+    float:left;
+    overflow:hidden;
+}
+
+#main{
+    background-color:#fef4f4;
+    width:calc(100%-200px);
+    min-width:500px;
+    float:left;
+}
+
+#main1{
+     background-color:#b7282e;
+     width:500px;
+     float:left;
+}
+
+#main2{
+     background-color:#1e50a2;
+     width:500px;
+      float:left;
+}
+
+aside{ 
+    background-color:#f08300;
+    width:200px; 
+    float:right;
+    position:relative;
+    top:20px;
+    right:10px;
+}
+
+footer{
+    background-color:#fdeff2;
+     clear:both;
+}
+ 
