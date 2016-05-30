@@ -105,9 +105,20 @@ list-style-type:none;
 	border-left:white 1px solid;
 }
 
+h3{
+font-size:30px;	
+}
 
+#logo ul{
+overflow:hidden;	
+}
 
+#logo li{
+float:left;
+list-style-type:none;
+}
 
-
-
+#logo img{
+width:100px;
+}
  
