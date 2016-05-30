@@ -73,37 +73,28 @@ font-size:30px;
 	content:"";
 }
 
-
-#main{
-    background-color:#fef4f4;
-    width:calc(100%-200px);
-    min-width:500px;
-    float:left;
+h2{
+font-size:30px;	
 }
 
-#main1{
-     background-color:#b7282e;
-     width:500px;
-     float:left;
+#gnav ul{
+overflow:hidden;	
 }
 
-#main2{
-     background-color:#1e50a2;
-     width:500px;
-      float:left;
+#gnav li{
+float:left;
+width:100px;
+border-right:white 1px solid;
+list-style-type:none;
 }
 
-aside{ 
-    background-color:#f08300;
-    width:200px; 
-    float:right;
-    position:relative;
-    top:20px;
-    right:10px;
+#gnav li:first-child{
+	border-left:white 1px solid;
 }
 
-footer{
-    background-color:#fdeff2;
-     clear:both;
-}
+
+
+
+
+
  
