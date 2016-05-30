@@ -85,7 +85,7 @@ font-size:30px;
 	background:#0095d9;
 	color:white;
 }
-#gnav a{
+#gnav a:hover{
 	background:#0bce2ef;
 	color:black;
 }
