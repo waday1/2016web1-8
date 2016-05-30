@@ -77,6 +77,19 @@ h2{
 font-size:30px;	
 }
 
+#gnav a{
+	display:block;
+	padding:10px 0;
+	text-align:center;
+	text-decoration:none;
+	background:#0095d9;
+	color:white;
+}
+#gnav a{
+	background:#0bce2ef;
+	color:black;
+}
+
 #gnav ul{
 overflow:hidden;	
 }
