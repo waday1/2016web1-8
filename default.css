@@ -56,32 +56,19 @@ body{
     margin:48px 0 0 0;
 } 
 
-header{
-    background-color:#460e44;
-    color:white;
-    position:fixed;
-    left:0;
-    top:0;
-    width:100%;
-    z-index:-1;
+.breadcrumbs li{
+	display:inline;
+	list-style-type:none;
 }
 
-#good_picture{
-    width:24;
-    position:absolute;
-    left:50px;
-    top:50px;
+.breadcrumbs li:before{
+	content:">";
 }
 
-.box{ 
-    background-color:#0d0015;
-    color:white;
-    width:240px;
-    height:80px;
-    margin:5px;
-    float:left;
-    overflow:hidden;
+.breadcrumbs li:first-child:before{
+	content:"";
 }
+
 
 #main{
     background-color:#fef4f4;
