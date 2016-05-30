@@ -103,9 +103,9 @@ font-size:30px;
 	padding:10px 5px;
 }
 
-div.img#1{background-position:0 0px;}
-div.img#2{background-position:0 -46px;}
-div.img#3{background-position:0 -92px;}
+div.img#a1{background-position:0 0px;}
+div.img#a2{background-position:0 -46px;}
+div.img#a3{background-position:0 -92px;}
 
 #gnav a:hover{
 	background:#bce2e8;
