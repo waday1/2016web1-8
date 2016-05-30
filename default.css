@@ -114,8 +114,10 @@ overflow:hidden;
 }
 
 #logo li{
-float:left;
-list-style-type:none;
+	display:table-cell;
+	vertical-align:middle;
+	padding:0 10;
+	list-style-type:none;
 }
 
 #logo img{
